@@ -1,7 +1,7 @@
 export default function form(props) {
   return (
     <div>
-      <label>Do you Know Her</label>
+      <label>Do you Know Here</label>
       <br />
       <input
         type="checkbox"
